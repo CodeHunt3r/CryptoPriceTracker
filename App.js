@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold'
   },
   titleWrapper: {
-    marginTop: 20,
+    marginTop: 40,
     paddingHorizontal: 16
   },
   divider: {
